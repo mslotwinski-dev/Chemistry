@@ -8,7 +8,6 @@ const eslintConfig = {
     'plugin:prettier/recommended',
     'eslint:recommended',
     '@vue/typescript/recommended',
-    '@vue/prettier'
 
   ],
   parserOptions: {
